@@ -1,0 +1,20 @@
+.datePicker {
+  font-family: sans-serif;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+}
+
+.datepicker > .datepicker-content {
+  padding: 0.25em 0.5em 2em 0.5em !important;
+  border-top: none;
+}
+
+/* .datepicker-header {
+  display: none;
+} */
+
+.datepicker.default .datepicker-wheel {
+  border-top: none;
+}
